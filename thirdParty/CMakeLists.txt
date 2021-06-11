@@ -1,0 +1,3 @@
+#SDL2
+
+#list(APPEND CMAKE_PREFIX_PATH SDL2/lib/cmake/SDL2)

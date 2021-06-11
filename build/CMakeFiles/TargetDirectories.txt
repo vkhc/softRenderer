@@ -1,0 +1,10 @@
+C:/Users/khs/Desktop/dum/build/CMakeFiles/edit_cache.dir
+C:/Users/khs/Desktop/dum/build/CMakeFiles/rebuild_cache.dir
+C:/Users/khs/Desktop/dum/build/src/CMakeFiles/mylib.dir
+C:/Users/khs/Desktop/dum/build/src/CMakeFiles/edit_cache.dir
+C:/Users/khs/Desktop/dum/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/khs/Desktop/dum/build/thirdParty/CMakeFiles/edit_cache.dir
+C:/Users/khs/Desktop/dum/build/thirdParty/CMakeFiles/rebuild_cache.dir
+C:/Users/khs/Desktop/dum/build/main/CMakeFiles/rebuild_cache.dir
+C:/Users/khs/Desktop/dum/build/main/CMakeFiles/myProject_Executable.dir
+C:/Users/khs/Desktop/dum/build/main/CMakeFiles/edit_cache.dir

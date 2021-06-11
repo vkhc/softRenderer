@@ -1,0 +1,14 @@
+
+set(SOURCES model.cpp screen.cpp window.cpp)
+set(INCLUDES ${PROJECT_SOURCE_DIR}/include)
+
+
+
+add_library(mylib STATIC ${SOURCES} )
+target_include_directories(mylib PUBLIC ${INCLUDES})
+target_include_directories(mylib PUBLIC ${SDL2_INCLUDE_DIRS})
+
+target_link_libraries(mylib PUBLIC ${SDL2_LIBRARIES})
+
+
+

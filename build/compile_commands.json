@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/khs/Desktop/dum/build/src",
+  "command": "C:\\cpp\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\mylib.dir\\model.cpp.obj -c C:\\Users\\khs\\Desktop\\dum\\src\\model.cpp",
+  "file": "C:/Users/khs/Desktop/dum/src/model.cpp"
+},
+{
+  "directory": "C:/Users/khs/Desktop/dum/build/src",
+  "command": "C:\\cpp\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\mylib.dir\\screen.cpp.obj -c C:\\Users\\khs\\Desktop\\dum\\src\\screen.cpp",
+  "file": "C:/Users/khs/Desktop/dum/src/screen.cpp"
+},
+{
+  "directory": "C:/Users/khs/Desktop/dum/build/src",
+  "command": "C:\\cpp\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\mylib.dir\\window.cpp.obj -c C:\\Users\\khs\\Desktop\\dum\\src\\window.cpp",
+  "file": "C:/Users/khs/Desktop/dum/src/window.cpp"
+},
+{
+  "directory": "C:/Users/khs/Desktop/dum/build/main",
+  "command": "C:\\cpp\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/myProject_Executable.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\myProject_Executable.dir\\main.cpp.obj -c C:\\Users\\khs\\Desktop\\dum\\main\\main.cpp",
+  "file": "C:/Users/khs/Desktop/dum/main/main.cpp"
+}
+]
